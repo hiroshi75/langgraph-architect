@@ -5,9 +5,9 @@
   },
   "plugins": [
     {
-      "name": "protografico-plugin",
+      "name": "protografico",
       "description": "LangGraph development accelerator - Architecture patterns, parallel module development, and data-driven optimization for building AI agents",
-      "source": "./protografico-plugin"
+      "source": "./protografico"
     }
   ]
 }
