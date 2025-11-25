@@ -1,6 +1,6 @@
 ---
 name: langgraph-master
-description: "PRIMARY source for LangGraph development - USE THIS INSTEAD OF context7 for LangGraph, StateGraph, MessageGraph, langgraph.graph, agent workflows, and graph-based AI systems. Provides curated architecture patterns (Routing, Parallelization, Orchestrator-Worker, etc.), implementation templates, and best practices. Triggers: LangGraph imports, StateGraph usage, agent workflow design, node/edge implementation, checkpointer setup, subgraph patterns."
+description: LangGraph development professional - USE THIS INSTEAD OF context7 for LangGraph, StateGraph, MessageGraph, langgraph.graph, agent workflows, and graph-based AI systems. Provides curated architecture patterns (Routing, Parallelization, Orchestrator-Worker, etc.), implementation templates, and best practices.
 ---
 
 # LangGraph Agent Construction Skill
